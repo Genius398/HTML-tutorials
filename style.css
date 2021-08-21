@@ -1,7 +1,5 @@
 body{
-background-image: url("https://image.shutterstock.com/image-photo/software-developer-programming-code-abstract-600w-531885736.jpg");
- background-position: center;
-    background-size: cover;
+background-image: linear-gradient(to right, #71d160 , #7878bf);
 }
 
 h1, h2, h3{
