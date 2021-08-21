@@ -1,8 +1,15 @@
 body{
 background-image: url("https://image.shutterstock.com/image-photo/software-developer-programming-code-abstract-600w-531885736.jpg");
+ background-position: center;
+    background-size: cover;
 }
 
 h1, h2, h3{
 font-size:25px;
 font-weight:bold;
+  color:white;
+}
+ 
+a{
+  color:blue;
 }
